@@ -13,3 +13,6 @@ Why settle for clunky online shopping when you can build something fast, beautif
 ## Emart is more than just a shopping app—it’s my playground for front-end magic
 
 ### Skills: Flutter · Dart · Firebase · Getx
+
+## Checkout on Linkdin
+https://www.linkedin.com/in/prashant-sengar
