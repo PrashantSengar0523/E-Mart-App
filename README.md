@@ -1,5 +1,5 @@
-### Emart
-# Why settle for clunky online shopping when you can build something fast, beautiful, and intuitive? Emart is my personal project, designed to deliver a seamless, visually appealing e-commerce experience with a modern, responsive UI.
+## Emart
+Why settle for clunky online shopping when you can build something fast, beautiful, and intuitive? Emart is my personal project, designed to deliver a seamless, visually appealing e-commerce experience with a modern, responsive UI.
 
 ## Built With: Flutter (because smooth animations = happy users)
 ## Front-End Highlights:
@@ -10,6 +10,6 @@
 ## Micro-Interactions & Animations – Lottie to add that extra polish
 ## Mobile-First & Responsive – Works flawlessly across all screen sizes
 
-Emart is more than just a shopping app—it’s my playground for front-end magic
+## Emart is more than just a shopping app—it’s my playground for front-end magic
 
 ### Skills: Flutter · Dart · Firebase · Getx
